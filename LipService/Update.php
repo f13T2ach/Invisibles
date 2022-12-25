@@ -1,1 +1,1 @@
-1.9,3466466,76b3f12969b3ef861c011cd378a51b45,
+1.9,3577499,7b73bbd4bc60cca13d1a7fe5c2bce966,https://raw.githubusercontent.com/f13T2ach/Invisibles/main/LipService/Release.apk
